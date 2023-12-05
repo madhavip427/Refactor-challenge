@@ -21,7 +21,7 @@ header h1 {
 }
 
 
-header section {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -29,7 +29,7 @@ header section {
     font-size: 25px;
 }
 
-header section ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -88,7 +88,7 @@ p {
 
 .benefits img {
     display: block;
-    margin: 33px auto;
+    margin: 10px auto;
     max-width: 150px;
 }
 
