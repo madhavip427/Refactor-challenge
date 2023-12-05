@@ -9,9 +9,10 @@ I learnt refactoring the existing code by using semantic elements and removing u
 
 ## Credits
 
-Starter code is already provided.
+Source code is already provided by the tutor.
 
 ## License
 
 N/A
 
+Source code is already provided by the tutor.
